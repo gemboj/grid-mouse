@@ -13,8 +13,8 @@ I have builit on top of that, reusing the Super mapping and adding my own grid k
 # Installation
 
 1. Install AutoHotkey v2: https://www.autohotkey.com/
-1. Download the mousePointer.ahk script and run it.
-    - Optional: Download redpointer.cur file and place it alongside the mousePointer.ahk to change your cursor to a fancy red one when the grid is active.
+1. Download the gridMouse.ahk script and run it.
+    - Optional: Download redpointer.cur file and place it alongside the gridMouse.ahk to change your cursor to a fancy red one when the grid is active.
 
 # Quickstart
 
