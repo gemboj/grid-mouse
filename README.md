@@ -1,4 +1,4 @@
-# GridMouse
+# GridMouse - grid based mouse movement
 
 This is a simple AutoHotkey script that allows you to move your mouse using only your keyboard.
 
