@@ -8,7 +8,7 @@ With just a few clicks you should be able to reach anything you ever need.
 This is based on another script, which turns CapsLock into a Super key: https://www.autohotkey.com/
 I have builit on top of that, reusing the Super mapping and adding my own grid keybinds.
 
-![Showcase](https://giphy.com/gifs/1s2Y4EU4TdJ9qjpdTn)
+![Showcase](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRrNGdsbDZkZ2lqb3pxdnVqam5vdnU2N2UwbnQ3bnc5ZWtrZ2o0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1s2Y4EU4TdJ9qjpdTn/giphy.gif)
 
 # Installation
 
