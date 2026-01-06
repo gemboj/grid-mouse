@@ -35,7 +35,7 @@ Repeat the jump until you reach desired place on the screen.
 
 # Main functions
 
-1. Move your grid using only your keyboard. You can reach any piece of your screen in O(log n) clicks!
+1. Move your mouse using only your keyboard. You can reach any piece of your screen in O(log n) keystrokes!
 2. Invoke all common mouse buttons: LMB, RMB, MMB, Click&Drag, Scroll, Mouse 4 & 5 buttons
 3. Supports multiple monitors. Use {CapsLock + 1/2/3/4} to select active monitor.
 
