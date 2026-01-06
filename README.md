@@ -3,7 +3,8 @@
 This is a simple AutoHotkey script that allows you to move your mouse using only your keyboard.
 
 It is meant to provide a fast access to any part of your screen estate.
-With just a few clicks you should be able to reach anything you ever need.
+This is done through a grid-based movement: instead of simply moving your mouse in the direction of pressed button, you
+use a grid to jump around, allowing for fast and precise movement.
 
 This is based on another script, which turns CapsLock into a Super key: https://www.autohotkey.com/
 I have builit on top of that, reusing the Super mapping and adding my own grid keybinds.
