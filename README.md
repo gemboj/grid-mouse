@@ -8,6 +8,8 @@ With just a few clicks you should be able to reach anything you ever need.
 This is based on another script, which turns CapsLock into a Super key: https://www.autohotkey.com/
 I have builit on top of that, reusing the Super mapping and adding my own grid keybinds.
 
+![Showcase](https://giphy.com/gifs/1s2Y4EU4TdJ9qjpdTn)
+
 # Installation
 
 1. Install AutoHotkey v2: https://www.autohotkey.com/
